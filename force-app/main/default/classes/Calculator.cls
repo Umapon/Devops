@@ -13,4 +13,5 @@ public with sharing class Calculator {
     public integer nul(integer a, integer b){
         return a*b;
     }
+
 }
