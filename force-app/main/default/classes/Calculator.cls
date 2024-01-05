@@ -10,4 +10,7 @@ public with sharing class Calculator {
     public Integer add(integer a, integer b) {
         return a+b;
     }
+    public Integer sub(integer a, integer b) {
+        return a-b;
+    } 
 }
