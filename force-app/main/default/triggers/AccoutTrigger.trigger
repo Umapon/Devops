@@ -1,4 +1,4 @@
-trigger AccoutTrigger on SOBJECT (before insert,before update) {
+trigger AccoutTrigger on Account (before insert,before update) {
     if(trigger.isInsert){
 
     }
